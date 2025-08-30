@@ -1,0 +1,7 @@
+.vercel
+.cache/
+cache/
+.venv/
+venv/
+cache/
+venv/
